@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: System Dynamics** <span id="6"></span> 
 *Any mechanical, electrical, fluidic, or thermal system has certain
 unique characteristics in how it responds to external excitation. Prior

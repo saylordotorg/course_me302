@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Feedback Devices** <span id="4"></span> 
 *In the last unit, you studied the types of actuators used in
 mechatronic systems. The feedback devices are equally important to the

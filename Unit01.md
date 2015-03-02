@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Mechatronics** <span id="1"></span> 
 *This unit will introduce you to the discipline of mechatronics. This is
 necessary in order to allow you to understand the overall composition of

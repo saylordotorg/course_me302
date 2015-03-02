@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Mechatronics System Design** <span id="8"></span> 
 *This final unit is the capstone unit of this course. Unit 8 attempts to
 bring together everything that you have learned so far. You will become

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Signal Processing** <span id="5"></span> 
 *In any mechatronic system, signals flow into and out of the system.
 These signals are essential for controlling the system and feeding back

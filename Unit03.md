@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Actuators** <span id="3"></span> 
 *Motion is the basic activity within a mechatronic system, whereby a
 mechanical system is being controlled by the use of actuators under a

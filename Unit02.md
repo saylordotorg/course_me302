@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME302: Mechatronics"
+course_description: "An examination of mechatronics, including the integration of mechanics, electronics, signal processing, and control systems, signal amplification, data sampling and filtering, machine programming, actuator and motor control, sensors, and robotics."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Electrical and Electronic Principles** <span id="2"></span> 
 *This unit will review some of the electrical and electronic principles
 that you have already studied and will introduce you to some new ones.
