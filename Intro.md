@@ -179,3 +179,4 @@ final exam.
 - [Unit 7](https://legacy.saylor.org/me302/Unit07/)
 - [Unit 8](https://legacy.saylor.org/me302/Unit08/)
 - [Unit 9](https://legacy.saylor.org/me302/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME302/ME302-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME302/ME302-FinalExam-Answers.html)
