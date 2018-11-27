@@ -223,7 +223,7 @@ self-inductance*.*
     Mechanical Basic Components”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif ‘s [“Analogy to
     Mechanical Basic
-    Components”](http://www.saylor.org/site/wp-content/uploads/2012/11/ME302-subunit-2.1.3-Analogy-of-Mechanical-Basic-Components-FINAL.pdf) (PDF)  
+    Components”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME302-subunit-2.1.3-Analogy-of-Mechanical-Basic-Components-FINAL.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this article
     to learn some general information on resistors, capacitors, and
@@ -490,7 +490,7 @@ systems.*
     to Logic Gates”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Introduction to
     Logic
-    Gates”](http://www.saylor.org/site/wp-content/uploads/2012/07/boolean-algebra-and-logic-gates-CCupload.pdf) (PDF)  
+    Gates”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/boolean-algebra-and-logic-gates-CCupload.pdf) (PDF)  
       
      Instructions: Please click on the link above to access the PDF.
     Read this text for an introduction to three logic gates and how they
@@ -552,7 +552,7 @@ achieve the required logic function.*
     Karnaugh Maps to Design Logic Circuits”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Using Karnaugh
     Maps to Design Logic
-    Circuits”](http://www.saylor.org/site/wp-content/uploads/2012/07/design-of-simple-logic-circuits-CCupload.pdf) (PDF)  
+    Circuits”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/design-of-simple-logic-circuits-CCupload.pdf) (PDF)  
       
      Instructions: Please click on the link above to download the PDF,
     and read this article (5 pages), which presents an example on the

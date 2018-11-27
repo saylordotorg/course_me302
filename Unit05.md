@@ -52,7 +52,7 @@ The operational amplifier is often referred to as op-amp for brevity.*
     Conditioning and Processing”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Signal
     Conditioning and
-    Processing”](http://www.saylor.org/site/wp-content/uploads/2012/11/2-Signal-conditioning-and-processing-rev-3-090214.pdf) (PDF)  
+    Processing”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/2-Signal-conditioning-and-processing-rev-3-090214.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the first
     five sections of the document on pages 1–11. You will continue
@@ -79,7 +79,7 @@ pass filtering, band pass filtering, and bandstop filtering.*
     Conditioning and Processing”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Signal
     Conditioning and
-    Processing”](http://www.saylor.org/site/wp-content/uploads/2012/11/2-Signal-conditioning-and-processing-rev-3-090214.pdf) (PDF)  
+    Processing”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/2-Signal-conditioning-and-processing-rev-3-090214.pdf) (PDF)  
       
      Instructions: Please click on the link above and read section 9 of
     the document on pages 15–18.  

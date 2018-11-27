@@ -43,7 +43,7 @@ Upon successful completion of this unit, the student will be able to:
     Selection for Mechatronic Systems”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Controller
     Selection for Mechatronic
-    Systems”](http://www.saylor.org/site/wp-content/uploads/2012/11/ME302-Subunits-7.2-and-7.3-Controller-Selection-for-Mechatronic-Systems-FINAL.pdf) (PDF)  
+    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME302-Subunits-7.2-and-7.3-Controller-Selection-for-Mechatronic-Systems-FINAL.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the first
     section titled “1. Controllers” on pages 1 and 2. There are
@@ -100,7 +100,7 @@ Upon successful completion of this unit, the student will be able to:
     Selection for Mechatronic Systems”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Controller
     Selection for Mechatronic
-    Systems”](http://www.saylor.org/site/wp-content/uploads/2012/11/ME302-Subunits-7.2-and-7.3-Controller-Selection-for-Mechatronic-Systems-FINAL.pdf) (PDF)  
+    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME302-Subunits-7.2-and-7.3-Controller-Selection-for-Mechatronic-Systems-FINAL.pdf) (PDF)  
       
      Instructions: There are a number of criteria that need to be taken
     into consideration when selecting a physical controller. These
