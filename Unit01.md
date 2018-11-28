@@ -164,7 +164,7 @@ and a printer.*
     Mechatronic Systems”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif‘s [“Examples of
     Mechatronic
-    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME302-subunit-1.2-Examples-of-Mechatronic-Systems-FINAL.pdf)
+    Systems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ME302-subunit-1.2-Examples-of-Mechatronic-Systems-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and study these
@@ -172,7 +172,7 @@ and a printer.*
     examples, complete the activity. Once you have completed the
     activity, check your answers against Dr. Lutfi Al-Sharif‘s [“Answer
     Key to Examples of Mechatronic Systems
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME302-subunit-1.2-Answer-Key-to-Examples-of-Mechatronic-Systems-FINAL.pdf)
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ME302-subunit-1.2-Answer-Key-to-Examples-of-Mechatronic-Systems-FINAL.pdf)
     (PDF).  
       
      Completing this activity should take approximately 30 minutes.  

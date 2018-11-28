@@ -90,7 +90,7 @@ gearboxes will be given in the last subunit of this unit.*
     Mechanics Basics”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Revision of
     Mechanics
-    Basics”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6a-Mechanics-rev-4-091115-CCupload.pdf)
+    Basics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6a-Mechanics-rev-4-091115-CCupload.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to download the PDF,
@@ -224,7 +224,7 @@ this unit.*
     between Electrical Circuits and Magnetic Circuits”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif ‘s [“Analogy between
     Electrical Circuits and Magnetic
-    Circuits”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1-system-analogies-rev-2-120217-CCupload.pdf)
+    Circuits”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1-system-analogies-rev-2-120217-CCupload.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read this article
@@ -393,7 +393,7 @@ source of unreliability for DC motors.*
     to DC Motors”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Introduction to
     DC
-    Motors”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/8a-DC-motors-rev-3-091115-CCupload.pdf) (PDF)  
+    Motors”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/8a-DC-motors-rev-3-091115-CCupload.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this chapter
     (30 pages). This text presents you with a detailed description of
@@ -490,7 +490,7 @@ speed drives that can vary the speed of the AC induction motors.*
     to AC Induction Motors”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Introduction to
     AC Induction
-    Motors”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/9a-AC-Induction-Motors-rev-3-100114-CCupload.pdf)
+    Motors”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/9a-AC-Induction-Motors-rev-3-100114-CCupload.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access the PDF, and
@@ -711,7 +711,7 @@ actuator.*
 -   **Reading: University of Jordan: Dr. Lutfi Al-Sharif’s “Actuator
     Selection”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Actuator
-    Selection”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/Actuator-Selection-rev-1-090908.pdf) (PDF)  
+    Selection”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/Actuator-Selection-rev-1-090908.pdf) (PDF)  
       
      Instructions: Please click on the link above to download the PDF.
     Study the brief document, which presents the various factors that
@@ -740,7 +740,7 @@ motor for an elevator.*
     AC Induction Motor for an Elevator System”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Sizing of an AC
     Induction Motor for an Elevator
-    System”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/11a-motor-sizing-and-selection-for-geared-hoisting-systems-rev-1-071221-CCupload.pdf)
+    System”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/11a-motor-sizing-and-selection-for-geared-hoisting-systems-rev-1-071221-CCupload.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read this chapter
@@ -759,7 +759,7 @@ motor for an elevator.*
     of a Permanent Magnet DC Motor for an Electric Vehicle”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“The Sizing of a
     Permanent Magnet DC Motor for an Electric
-    Vehicle”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/8b-motor-selection-for-an-electric-vehicle-rev-2-080517-CCupload.pdf)
+    Vehicle”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/8b-motor-selection-for-an-electric-vehicle-rev-2-080517-CCupload.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access the PDF, and
@@ -799,7 +799,7 @@ reduce the speed and increase the torque.*
     Mechanics Basics”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Revision of
     Mechanics
-    Basics”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6a-Mechanics-rev-4-091115-CCupload.pdf)
+    Basics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6a-Mechanics-rev-4-091115-CCupload.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access the PDF.
