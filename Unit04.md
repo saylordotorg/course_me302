@@ -82,7 +82,7 @@ increases as the number of bits increases.*
 
 -   **Reading: The Saylor Foundation’s “Grey Code versus Binary Code”**
     Link: The Saylor Foundation’s [“Grey Code versus Binary
-    Code”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME302-4.1-GreyCodeBinaryCode.pdf)
+    Code”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME302-4.1-GreyCodeBinaryCode.pdf)
     (PDF)  
       
      Instructions: Download and read this article.  
@@ -146,7 +146,7 @@ seismic accelerometer*.*
     “Acceleration, Vibration, and Shock Measurement”**
     Link: University of Jordan: Dr. Lutfi Al-Sharif’s [“Acceleration,
     Vibration, and Shock
-    Measurement”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/10-accleration-vibration-and-shock-measurement-rev-1-080525.pdf) (PDF)  
+    Measurement”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/10-accleration-vibration-and-shock-measurement-rev-1-080525.pdf) (PDF)  
       
      Instructions: Please click on the link above to access the PDF, and
     read the material on accelerometers (7 pages). Note how a seismic
